@@ -17,6 +17,10 @@ saad paika panna mida sinu deno rakendus teeb
 
 https://bun.sh/ fast javascript all in one toolkit, effetiivsem, ehitatud zig keeles.(zig on uus kiire keel, madaltaseme keel)
 
+Harjutamiseks:
+[projecteuler](https://projecteuler.net/)
+[codingame](https://www.codingame.com/)
+
 '''
 !
 '''
