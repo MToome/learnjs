@@ -11,7 +11,9 @@ ja paneb bashis tööle käsuga node
 
 https://deno.com/
 üritab vähendada node turvalisuse riske ja npm imelikusid
+saad paika panna mida sinu deno rakendus teeb
 
+https://bun.sh/ fast javascript all in one toolkit, effetiivsem, ehitatud zig keeles.(zig on uus kiire keel, madaltaseme keel)
 
 '''
 !
