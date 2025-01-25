@@ -4,6 +4,8 @@ https://learnxinyminutes.com/ õppida keeli kui oskab ühte
 
 Npmjs.com 
 
+Tasub alustada nodejs
+
 https://nodejs.org/en
 nodejs saab installid 
 winget install openjs.nodejs
